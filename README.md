@@ -8,7 +8,7 @@ I lead **Product Marketing** at **[DISQO](https://www.disqo.com/)** — the bran
 
 * Working on **AI-native launch systems**: automated release-deploy-launch flows
 * Learning, experimenting, and implementing AI-workflow feedback loops for content
-* Building and growing **[Dad Raiders](https://github.com/aaglidden/dad-raiders-site)** on the side
+* Building and growing **[Dad Raiders](https://dadraiders.xyz/)** on the side
 
 * * *
 ### Find me
